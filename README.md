@@ -1,10 +1,10 @@
 <img src="https://github.com/cady-codes/cady-codes/blob/main/pixel%20coding.gif?raw=true" alt="Pixel Coding Banner" width="100%" />
-- 👋 Hi, I’m @cady-codes
- - 👀 I’m interested in programming, game-development, and art
- - 🌱 I’m currently learning to code from scratch
- - 💞️ I’m hope to collaborate with others to create games!
- - 📫 Reach me on email: cadentamontehw@gmail.com
- - 😄 Pronouns: Him
+ - 👋 Hi, I’m @cady-codes <br>
+ - 👀 I’m interested in programming, game-development, and art <br>
+ - 🌱 I’m currently learning to code from scratch <br>
+ - 💞️ I’m hope to collaborate with others to create games! <br>
+ - 📫 Reach me on email: cadentamontehw@gmail.com <br>
+ - 😄 Pronouns: Him <br>
  - ⚡ Fun fact: I went to college for comp-sci but dropped out. I want to relearn everything and more about programming!
  
 <!---
